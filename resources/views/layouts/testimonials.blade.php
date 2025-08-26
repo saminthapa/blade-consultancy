@@ -18,7 +18,7 @@
                 @php
                     $testimonials = [
                         ['name' => 'Anjali Sharma', 'country' => 'Canada', 'quote' => 'Yatrax helped me every step of the way. I am now pursuing my dream education abroad.'],
-                        ['name' => 'Ravi Thapa', 'country' => 'Australia', 'quote' => 'Smooth and friendly process — highly recommend them!'],
+                        ['name' => 'Ravi Thapa', 'country' => 'Australia', 'quote' => 'Smooth and friendly process from start to finish — highly recommend them!'],
                         ['name' => 'Sneha Karki', 'country' => 'UK', 'quote' => 'The team guided me through everything, from college selection to visa.'],
                     ];
                 @endphp
